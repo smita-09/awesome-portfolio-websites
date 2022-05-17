@@ -40,11 +40,6 @@ const techStack = [
     langDesc: "<li>Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.</li>",
   },
   {
-    langImage: "assets/images/techstack-page/bootstrap.png",
-    langName: "Bootstrap",
-    langDesc: "<li>Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development</li>",
-  },
-  {
     langImage: "assets/images/techstack-page/react.png",
     langName: "React",
     langDesc: "<li>React is a free and open-source front-end JavaScript library for building user interfaces based on UI components</li>",
