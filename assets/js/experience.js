@@ -7,7 +7,7 @@ const exp = [
   {
     title: "Master Thesis Student",
     cardImage: "assets/images/systema.PNG",
-    place: "Flipkart",
+    place: "Systema",
     time: "(Jan, 2022 - present)",
     desp: "<li>Working on throughput optimization for semiconductor manufacturing process using reinforcement learning.</li>",
   },
